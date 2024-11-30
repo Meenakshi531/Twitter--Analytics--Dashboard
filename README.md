@@ -4,6 +4,9 @@ Project of Twitter analytics dashboard
 ## Introduction 
 The Twitter Analytics Dashboard project utilizes Power BI to deliver a interactive visualization of essential social media metrics, such as impressions, engagement rates, retweets, likes, and media views. This tool is specifically designed for the analysis of Twitter activity. The dashboard facilitates the visualization and examination of Twitter data, allowing users to extract insights regarding tweet impressions, engagement rates, media performance, and daily trends. By converting raw data into insightful visuals, the project offers actionable recommendations to enhance social media strategies.
 
+## Dashboard Link 
+link = https://app.powerbi.com/groups/me/reports/6568a255-5a67-4bd8-add0-e44cac2003dc/3b7c527dda3f7e4bb55a?experience=power-bi
+
 ## Background 
 Social media platforms, particularly Twitter, have become vital for communication, marketing, and brand development. However, the analysis of extensive datasets from these platforms can be daunting without the right tools. This project was initiated to streamline this process, offering a thorough and visually appealing method to monitor performance metrics, including:  
 - Average impressions: 89K  
