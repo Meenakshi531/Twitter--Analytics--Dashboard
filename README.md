@@ -2,7 +2,7 @@
 Project of Twitter analytics dashboard
 
 ## Introduction 
-The Twitter Analytics Dashboard project utilizes Power BI to deliver a interactive visualization of essential social media metrics, such as impressions, engagement rates, retweets, likes, and media views. This tool is specifically designed for the analysis of Twitter activity. The dashboard facilitates the visualization and examination of Twitter data, allowing users to extract insights regarding tweet impressions, engagement rates, media performance, and daily trends. By converting raw data into insightful visuals, the project offers actionable recommendations to enhance social media strategies.
+The Twitter Analytics Dashboard project utilizes Power BI to deliver a interactive visualization of essential social media metrics, such as impressions, engagement rates, retweets, likes, and media views. This tool is specifically designed for the analysis of Twitter activity. The dashboard facilitates the visualization and examination of Twitter data, allowing users to extract insights regarding tweet impressions, engagement rates, media performance, and daily trends. 
 
 ## Dashboard Link 
 link = https://app.powerbi.com/groups/me/reports/6568a255-5a67-4bd8-add0-e44cac2003dc/3b7c527dda3f7e4bb55a?experience=power-bi
@@ -13,7 +13,6 @@ Social media platforms, particularly Twitter, have become vital for communicatio
 - Average engagement rate: 0.04  
 - Total tweets analyzed: 1,166  
 - Engagement breakdown by media type and interactions.  
-The dashboard empowers organizations to concentrate on data-driven decisions that enhance engagement and visibility.
 
 ## Learning Objectives 
 - Grasp data integration and management using Power BI with Twitter data sources.  
@@ -37,7 +36,6 @@ Technical Skills:
 Data Analysis:
 - Analyzing trends in daily impressions and engagement metrics.
 - Assessing the effectiveness of different media types (e.g., tweets containing media versus those without).
-Design Proficiency: Developing visuals that are both accessible and visually appealing.
 
 ## Feedback and Evidence 
 - The dashboard received positive feedback for its clarity and comprehensive nature. Stakeholders commended its effectiveness in presenting actionable insights. 
@@ -62,7 +60,7 @@ Influence on Decision-Making: The dashboard enabled real-time tracking of engage
 
 Enhanced Comprehension: Users acquired knowledge regarding essential metrics, including the most successful tweets and the most effective days for posting.
 
-Skill Advancement: The project fostered the development of technical and analytical capabilities in Power BI, laying the groundwork for more sophisticated analytics endeavors.
+Skill Advancement: The project fostered the development of technical and analytical capabilities in Power BI.
 
 ## Conclusion 
-The Twitter Analytics Dashboard initiative exemplifies the proficient application of Power BI in converting raw social media data into actionable insights. By tackling challenges related to data analysis and visualization, the project underscores the potential of data-driven methodologies to enhance Twitter campaigns. This effort not only highlights technical and analytical proficiency but also establishes a basis for expanding such dashboards to additional social media platforms.
+The Twitter Analytics Dashboard exemplifies the proficient application of Power BI in converting raw social media data into actionable insights. By tackling challenges related to data analysis and visualization, the project underscores the potential of data-driven methodologies to enhance Twitter campaigns. This effort not only highlights technical and analytical proficiency but also establishes a basis for expanding such dashboards to additional social media platforms.
